@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-11-10T08:31:58.805972196Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-11-10T09:35:25.219440516Z",
     "templateType": "trip_a",
     "propertyId": "c891636e-f24a-46b5-8a65-93d1e2136595",
     "homepageId": "01a1573d-0509-775e-b732-0e996f9fb572"
@@ -4454,7 +4454,8 @@
       ],
       "footer": {
         "ruralStayMark": null,
-        "ruralStayMarks": [ ]
+        "ruralStayMarks": [ ],
+        "calendarUrl": "https://www.bookingplay.co.kr/partner/item/2106/calendar_list/"
       }
     }
   }
